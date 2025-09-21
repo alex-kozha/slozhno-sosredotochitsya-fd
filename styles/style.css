@@ -14,7 +14,7 @@
 .header {
   margin-top:10px;
   block-size: 100vh;
-  min-block-size: 658px;
+  min-block-size: 668px;
   display:grid;
   position:relative;
   grid-template-rows:1fr 1fr 1fr;
@@ -35,7 +35,7 @@
   top:5px;
   right: 29px;
   color: var(--accent-color);
-  line-height: 25px;
+  line-height: 23.4px;
 }
 
 .decor-text::after {

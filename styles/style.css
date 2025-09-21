@@ -12,6 +12,7 @@
 }
 
 .header {
+  margin-top:10px;
   block-size: 100vh;
   min-block-size: 658px;
   display:grid;
@@ -208,11 +209,11 @@
   .main {
     margin-top:60px;
     margin-bottom: 60px;
-    gap: 85px;
+    gap: 80px;
   }
 
   .header {
-    margin-top: 5px;
+    margin-top: 20px;
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
   }

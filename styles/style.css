@@ -12,7 +12,6 @@
 }
 
 .header {
-  margin-top:10px;
   block-size: 100vh;
   min-block-size: 668px;
   display:grid;

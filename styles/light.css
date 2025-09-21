@@ -5,7 +5,7 @@
 */
 
 :root.theme-light {
-   --background-image: url(../images/cover-image-light.png);
+  --background-image: url(../images/cover-image-light.png);
   --text-title-color:#353430;
   --accent-color: #FF8DCB;
   --text-section-color: #353430;
@@ -18,8 +18,8 @@
 }
 
 @media (prefers-color-scheme: light) {
-:root{
-   --background-image: url(../images/cover-image-light.png);
+:root {
+  --background-image: url(../images/cover-image-light.png);
   --text-title-color:#353430;
   --accent-color: #FF8DCB;
   --text-section-color: #353430;

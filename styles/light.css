@@ -15,6 +15,7 @@
   --button-hover:  rgb(53 52 48 / 0.5);
   --title-section-color: #353430;
   --decor-color: #353430;
+  --page-background-color: #ecb8cf;
 }
 
 @media (prefers-color-scheme: light) {
@@ -29,5 +30,6 @@
   --button-hover: rgb(53 52 48 / 0.5);
   --title-section-color: #353430;
   --decor-color: #353430;
+  --page-background-color: #ecb8cf;
 }
 }
